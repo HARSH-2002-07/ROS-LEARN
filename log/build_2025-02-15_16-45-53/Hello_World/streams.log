@@ -1,0 +1,17 @@
+[0.857s] Invoking command in '/home/harsh/ROS-LEARN/build/Hello_World': PYTHONPATH=/home/harsh/ROS-LEARN/build/Hello_World/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harsh/ROS-LEARN/install/Hello_World/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harsh/ROS-LEARN/build/Hello_World/build --no-deps symlink_data
+[1.079s] running develop
+[1.214s] running egg_info
+[1.215s] writing Hello_World.egg-info/PKG-INFO
+[1.215s] writing dependency_links to Hello_World.egg-info/dependency_links.txt
+[1.215s] writing entry points to Hello_World.egg-info/entry_points.txt
+[1.215s] writing requirements to Hello_World.egg-info/requires.txt
+[1.215s] writing top-level names to Hello_World.egg-info/top_level.txt
+[1.217s] reading manifest file 'Hello_World.egg-info/SOURCES.txt'
+[1.217s] writing manifest file 'Hello_World.egg-info/SOURCES.txt'
+[1.219s] running build_ext
+[1.219s] Creating /home/harsh/ROS-LEARN/install/Hello_World/lib/python3.10/site-packages/Hello-World.egg-link (link to .)
+[1.220s] Installing hello_world_node script to /home/harsh/ROS-LEARN/install/Hello_World/lib/Hello_World
+[1.220s] 
+[1.220s] Installed /home/harsh/ROS-LEARN/build/Hello_World
+[1.220s] running symlink_data
+[1.267s] Invoked command in '/home/harsh/ROS-LEARN/build/Hello_World' returned '0': PYTHONPATH=/home/harsh/ROS-LEARN/build/Hello_World/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harsh/ROS-LEARN/install/Hello_World/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/harsh/ROS-LEARN/build/Hello_World/build --no-deps symlink_data

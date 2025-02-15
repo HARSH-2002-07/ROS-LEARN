@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
-Name: Hello-World
+Name: py-pubsub
 Version: 0.0.0
-Summary: This programm publishes a hi or greeting from the package
+Summary: This is a simple publisher node that will publish any message that will be defined
 Home-page: UNKNOWN
 Maintainer: harsh
 Maintainer-email: hj075028@gmail.com
