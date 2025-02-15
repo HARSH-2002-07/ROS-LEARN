@@ -1,0 +1,3 @@
+[console_scripts]
+hello_world_node = Hello_World.hello_world_node:main
+

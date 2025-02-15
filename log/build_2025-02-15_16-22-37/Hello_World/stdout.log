@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating Hello_World.egg-info
+writing Hello_World.egg-info/PKG-INFO
+writing dependency_links to Hello_World.egg-info/dependency_links.txt
+writing entry points to Hello_World.egg-info/entry_points.txt
+writing requirements to Hello_World.egg-info/requires.txt
+writing top-level names to Hello_World.egg-info/top_level.txt
+writing manifest file 'Hello_World.egg-info/SOURCES.txt'
+reading manifest file 'Hello_World.egg-info/SOURCES.txt'
+writing manifest file 'Hello_World.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/harsh/ROS-LEARN/install/Hello_World/lib/python3.10/site-packages/Hello-World.egg-link (link to .)
+Installing hello_world_node script to /home/harsh/ROS-LEARN/install/Hello_World/lib/Hello_World
+
+Installed /home/harsh/ROS-LEARN/build/Hello_World
+running symlink_data
+creating /home/harsh/ROS-LEARN/install/Hello_World/share/ament_index
+creating /home/harsh/ROS-LEARN/install/Hello_World/share/ament_index/resource_index
+creating /home/harsh/ROS-LEARN/install/Hello_World/share/ament_index/resource_index/packages
+symbolically linking /home/harsh/ROS-LEARN/build/Hello_World/resource/Hello_World -> /home/harsh/ROS-LEARN/install/Hello_World/share/ament_index/resource_index/packages
+symbolically linking /home/harsh/ROS-LEARN/build/Hello_World/package.xml -> /home/harsh/ROS-LEARN/install/Hello_World/share/Hello_World
